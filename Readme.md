@@ -1,6 +1,6 @@
 # Escape Room
 
-This project utilizes basic Java features to create a text-based, navigatable Escape Room.
+This personal project utilizes basic Java features to create a text-based, navigatable Escape Room.
 I utilize classes, methods, and strings and incorporate a gameboard to display the game.
 
 
